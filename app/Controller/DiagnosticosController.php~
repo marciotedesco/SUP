@@ -1,0 +1,107 @@
+<?php
+App::uses('AppController', 'Controller');
+/**
+ * Diagnosticos Controller
+ *
+ * @property Diagnostico $Diagnostico
+ */
+class DiagnosticosController extends AppController {
+
+/**
+ * index method
+ *
+ * @return void
+ */
+	public function index() {
+		$this->Diagnostico->recursive = 0;
+		$this->set('diagnosticos', $this->paginate());
+	}
+
+/**
+ * view method
+ *
+ * @throws NotFoundException
+ * @param string $id
+ * @return void
+ */
+	public function view($id = null) {
+		$this->Diagnostico->id = $id;
+		if (!$this->Diagnostico->exists()) {
+			throw new NotFoundException(__('Diagnóstico inválido'));
+		}
+		$this->set('diagnostico', $this->Diagnostico->read(null, $id));
+	}
+
+/**
+ * add method
+ *
+ * @return void
+ */
+	public function add() {
+		if ($this->request->is('post')) {
+			$this->Diagnostico->create();
+			if ($this->Diagnostico->save($this->request->data)) {
+				$this->Session->setFlash(__('O diagnóstico foi salvo'));
+				$this->redirect(array('action' => 'index'));
+			} else {
+				$this->Session->setFlash(__('O diagnóstico não pôde ser salvo. Por favor, tente novamente.'));
+			}
+		}
+		$prontuarios = $this->Diagnostico->Prontuario->find('list');
+		$pacientes = $this->Diagnostico->Paciente->find('list');
+		$medicos = $this->Diagnostico->Medico->find('list');
+		$this->set(compact('prontuarios', 'pacientes', 'medicos'));
+	}
+
+/**
+ * edit method
+ *
+ * @throws NotFoundException
+ * @param string $id
+ * @return void
+ */
+	public function edit($id = null) {
+		$this->Diagnostico->id = $id;
+		if (!$this->Diagnostico->exists()) {
+			throw new NotFoundException(__('Diagnóstico inválido'));
+		}
+		if ($this->request->is('post') || $this->request->is('put')) {
+			if ($this->Diagnostico->save($this->request->data)) {
+				$this->Session->setFlash(__('O diagnóstico foi salvo'));
+				$this->redirect(array('action' => 'index'));
+			} else {
+				$this->Session->setFlash(__('O diagnóstico não pôde ser salvo. Por favor, tente novamente.'));
+			}
+		} else {
+			$this->request->data = $this->Diagnostico->read(null, $id);
+		}
+		$prontuarios = $this->Diagnostico->Prontuario->find('list');
+		$pacientes = $this->Diagnostico->Paciente->find('list');
+		$medicos = $this->Diagnostico->Medico->find('list');
+		$this->set(compact('prontuarios', 'pacientes', 'medicos'));
+	}
+
+/**
+ * delete method
+ *
+ * @throws MethodNotAllowedException
+ * @throws NotFoundException
+ * @param string $id
+ * @return void
+ */
+	public function delete($id = null) {
+		if (!$this->request->is('post')) {
+			throw new MethodNotAllowedException();
+		}
+		$this->Diagnostico->id = $id;
+		if (!$this->Diagnostico->exists()) {
+			throw new NotFoundException(__('Diagnóstico inválido'));
+		}
+		if ($this->Diagnostico->delete()) {
+			$this->Session->setFlash(__('Diagnóstico deletado'));
+			$this->redirect(array('action' => 'index'));
+		}
+		$this->Session->setFlash(__('Diagnostico was not deleted'));
+		$this->redirect(array('action' => 'index'));
+	}
+}

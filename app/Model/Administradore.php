@@ -1,0 +1,42 @@
+<?php
+App::uses('AppModel', 'Model');
+/**
+ * Administradore Model
+ *
+ * @property Instituicao $Instituicao
+ * @property Profissional $Profissional
+ */
+class Administradore extends AppModel {
+
+/**
+ * Use table
+ *
+ * @var mixed False or table name
+ */
+	public $useTable = 'administradores';
+
+
+	//The Associations below have been created with all possible keys, those that are not needed can be removed
+
+/**
+ * belongsTo associations
+ *
+ * @var array
+ */
+	public $belongsTo = array(
+		'Instituicao' => array(
+			'className' => 'Instituicao',
+			'foreignKey' => 'Instituicao_id',
+			'conditions' => '',
+			'fields' => '',
+			'order' => ''
+		),
+		'Profissional' => array(
+			'className' => 'Profissional',
+			'foreignKey' => 'Profissional_id',
+			'conditions' => '',
+			'fields' => '',
+			'order' => ''
+		)
+	);
+}

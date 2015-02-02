@@ -1,0 +1,40 @@
+<?php
+/**
+*	Users Controller
+*/
+class UsersController extends AppController
+{
+
+	public function beforeFilter()
+	{
+		parent::beforeFilter();
+		$this->Auth->allow('add');
+	}
+
+	public function add()
+	{
+		if(!empty($this->data)){
+			$this->User->create();
+			if($this->User->save($this->data))
+			{
+				$this->Session->setFlash('Usuário cadastrado');
+				$this->redirect(array('action' => 'login'));	
+			}else{
+				$this->Session->setFlash('Corrija os erros');
+			}
+		}
+	}
+
+	public function login()
+	{
+	
+	}
+	
+	public function logout()
+	{
+		$this->redirect($this->Auth->logout());	
+	}
+
+}
+
+?>

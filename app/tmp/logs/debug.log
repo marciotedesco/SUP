@@ -1,0 +1,2467 @@
+2012-08-07 14:54:27 Debug: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\sup\lib\Cake\View\Helper\FormHelper.php, line 2193]
+Trace:
+FormHelper::dateTime() - CORE\Cake\View\Helper\FormHelper.php, line 2193
+FormHelper::input() - CORE\Cake\View\Helper\FormHelper.php, line 1120
+include - APP\View\Instituicoes\edit.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 14:55:48 Debug: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\sup\lib\Cake\View\Helper\FormHelper.php, line 2193]
+Trace:
+FormHelper::dateTime() - CORE\Cake\View\Helper\FormHelper.php, line 2193
+FormHelper::input() - CORE\Cake\View\Helper\FormHelper.php, line 1120
+include - APP\View\Instituicoes\edit.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 14:56:12 Debug: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\sup\lib\Cake\View\Helper\FormHelper.php, line 2193]
+Trace:
+FormHelper::dateTime() - CORE\Cake\View\Helper\FormHelper.php, line 2193
+FormHelper::input() - CORE\Cake\View\Helper\FormHelper.php, line 1120
+include - APP\View\Instituicoes\edit.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:00:36 Debug: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\sup\lib\Cake\View\Helper\FormHelper.php, line 2193]
+Trace:
+FormHelper::dateTime() - CORE\Cake\View\Helper\FormHelper.php, line 2193
+FormHelper::input() - CORE\Cake\View\Helper\FormHelper.php, line 1120
+include - APP\View\Instituicoes\edit.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:01:11 Debug: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\sup\lib\Cake\View\Helper\FormHelper.php, line 2193]
+Trace:
+FormHelper::dateTime() - CORE\Cake\View\Helper\FormHelper.php, line 2193
+FormHelper::input() - CORE\Cake\View\Helper\FormHelper.php, line 1120
+include - APP\View\Instituicoes\edit.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:03:34 Debug: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\sup\lib\Cake\View\Helper\FormHelper.php, line 2193]
+Trace:
+FormHelper::dateTime() - CORE\Cake\View\Helper\FormHelper.php, line 2193
+FormHelper::input() - CORE\Cake\View\Helper\FormHelper.php, line 1120
+include - APP\View\Instituicoes\edit.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:07:10 Debug: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\sup\lib\Cake\View\Helper\FormHelper.php, line 2193]
+Trace:
+FormHelper::dateTime() - CORE\Cake\View\Helper\FormHelper.php, line 2193
+FormHelper::input() - CORE\Cake\View\Helper\FormHelper.php, line 1120
+include - APP\View\Instituicoes\edit.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:28:36 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:30:33 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:12 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:16 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:20 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:31:20 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:33:48 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:35:08 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:35:08 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:40:48 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:40:48 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:41:07 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:41:20 Debug: Notice (8): Use of undefined constant Diagnósticos - assumed 'Diagnósticos' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 3]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:41:20 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:41:20 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:44:01 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:44:01 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:44:32 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:44:35 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:44:44 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:44:44 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:45:51 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:45:51 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:45:51 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:46:03 Debug: Notice (8): Use of undefined constant Diagnósticos - assumed 'Diagnósticos' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 3]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:46:03 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:46:03 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:46:04 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:46:05 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:47:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:47:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:47:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:49:24 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:49:24 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:49:24 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:49:30 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:49:30 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:18 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 36]
+Trace:
+include - APP\View\Consultas\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 37]
+Trace:
+include - APP\View\Consultas\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:52:27 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Consultas\index.ctp, line 38]
+Trace:
+include - APP\View\Consultas\index.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:53:59 Debug: Notice (8): Use of undefined constant Diagnósticos - assumed 'Diagnósticos' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 3]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:53:59 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:53:59 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:06 Debug: Notice (8): Use of undefined constant Diagnósticos - assumed 'Diagnósticos' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 3]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:06 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:06 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:25 Debug: Notice (8): Use of undefined constant Diagnósticos - assumed 'Diagnósticos' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 3]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:25 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:25 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:28 Debug: Notice (8): Use of undefined constant Médico - assumed 'Médico' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 9]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:54:28 Debug: Notice (8): Use of undefined constant Comentários - assumed 'Comentários' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 31]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:56:01 Debug: Notice (8): Use of undefined constant Médico - assumed 'Médico' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 9]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:56:01 Debug: Notice (8): Use of undefined constant Comentários - assumed 'Comentários' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 31]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:57:28 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:57:28 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:12 Debug: Notice (8): Use of undefined constant Diagnósticos - assumed 'Diagnósticos' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 3]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:12 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:17 Debug: Notice (8): Use of undefined constant Médico - assumed 'Médico' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 9]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:17 Debug: Notice (8): Use of undefined constant Comentários - assumed 'Comentários' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 31]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:23 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:23 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:25 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:58:25 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:59:25 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:59:25 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:59:26 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 15:59:26 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:01:22 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:01:22 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:01:22 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:04:08 Debug: Notice (8): Use of undefined constant M�dico - assumed 'M�dico' in [C:\xampp\htdocs\sup\app\View\Exames\view.ctp, line 9]
+Trace:
+include - APP\View\Exames\view.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:05:50 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:05:50 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:05:50 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:06:18 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:06:18 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:06:18 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:06:55 Debug: Notice (8): Use of undefined constant Diagnósticos - assumed 'Diagnósticos' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 3]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:06:55 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:06:55 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\index.ctp, line 33]
+Trace:
+include - APP\View\Diagnosticos\index.ctp, line 33
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:07:04 Debug: Notice (8): Use of undefined constant Médico - assumed 'Médico' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 9]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:07:04 Debug: Notice (8): Use of undefined constant Comentários - assumed 'Comentários' in [C:\xampp\htdocs\sup\app\View\Diagnosticos\view.ctp, line 31]
+Trace:
+include - APP\View\Diagnosticos\view.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:07:54 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:07:54 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:07:54 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:08:08 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:08:08 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:08:08 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:08:28 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:08:28 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:08:28 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:09:40 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:09:40 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:09:40 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:09:54 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:09:54 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:09:54 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:10:11 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:10:11 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:10:11 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Exames\index.ctp, line 36]
+Trace:
+include - APP\View\Exames\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:02 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:02 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:02 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:02 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:02 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:02 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:38 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:38 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:38 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:38 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:38 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:11:38 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:17:32 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:17:32 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:17:32 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:17:32 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:17:32 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:17:32 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:18:52 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:18:52 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:18:52 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:18:52 Debug: Notice (8): Use of undefined constant Visualizar - assumed 'Visualizar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 35]
+Trace:
+include - APP\View\Medicos\index.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:18:52 Debug: Notice (8): Use of undefined constant Editar - assumed 'Editar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 36]
+Trace:
+include - APP\View\Medicos\index.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-07 16:18:52 Debug: Notice (8): Use of undefined constant Deletar - assumed 'Deletar' in [C:\xampp\htdocs\sup\app\View\Medicos\index.ctp, line 37]
+Trace:
+include - APP\View\Medicos\index.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 95
+
+2012-08-21 13:42:03 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:03 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:03 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:12 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:12 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:36 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:36 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:36 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:36 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:36 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:36 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:41 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/view.ctp, line 51]
+Trace:
+include - APP/View/Administradores/view.ctp, line 51
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:41 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/view.ctp, line 51]
+Trace:
+include - APP/View/Administradores/view.ctp, line 51
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:57 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:57 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:57 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:57 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:57 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 13:42:57 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:04 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:04 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:04 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:04 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:04 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:04 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:09 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 1]
+Trace:
+include - APP/View/Users/listar.ctp, line 1
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:09 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:09 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:09 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:09 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:09 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:41 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 14:12:41 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:39:15 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 1]
+Trace:
+include - APP/View/Users/listar.ctp, line 1
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:39:15 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:39:15 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:39:15 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:39:15 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:39:15 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:44:01 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:44:01 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:44:01 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:44:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2012-08-21 15:44:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:07 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:07 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:07 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:07 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:07 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 32]
+Trace:
+include - APP/View/Administradores/index.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:07 Notice: Notice (8): Undefined index: Profissional in [/opt/lampp/htdocs/sup/app/View/Administradores/index.ctp, line 41]
+Trace:
+include - APP/View/Administradores/index.ctp, line 41
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:10 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 1]
+Trace:
+include - APP/View/Users/listar.ctp, line 1
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:10 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Users/listar.ctp, line 29]
+Trace:
+include - APP/View/Users/listar.ctp, line 29
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:22 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
+2015-02-02 13:31:22 Notice: Notice (8): Undefined variable: paciente in [/opt/lampp/htdocs/sup/app/View/Cartoes/index.ctp, line 24]
+Trace:
+include - APP/View/Cartoes/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 95
+
